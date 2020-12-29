@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my portfolio website, miguelnonaka.com.
+- 🌱 I’m currently learning web development. 
+- 👯 I’m looking to collaborate on web development projects.
+- 💬 Ask me about web design and web development. 
+- 📫 How to reach me: 
+> By email: nonakamiguel109@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to read and write. 
+
 <!--
 **TechStudent12/TechStudent12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
