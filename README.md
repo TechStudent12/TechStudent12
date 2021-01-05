@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio website, www.miguelnonaka.com.
+- 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning web development. 
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about web design and web development. 
-- 📫 How to reach me: 
-> By email: nonakamiguel109@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to read and write. 
 
