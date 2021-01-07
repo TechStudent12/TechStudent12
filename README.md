@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on my portfolio website, www.miguelnonaka.com.
 - 🌱 I’m currently learning web development. 
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about web design and web development. 
